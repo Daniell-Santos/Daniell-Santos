@@ -1,16 +1,15 @@
 <h1 align="center">Oi 👋, eu sou o Daniel</h1>
-<h3 align="center">Builder full-stack & automação com IA — do MVP em produção ao sistema que escala sozinho</h3>
+<h3 align="center">Builder full-stack & automação com IA: do MVP em produção ao sistema que escala sozinho</h3>
 
 <p align="center">
-Construo produtos e sistemas que conectam operação real ao poder da Inteligência Artificial, eliminando retrabalho e permitindo que negócios cresçam sem depender de processo manual. Mentalidade de dono: não entrego só código, entrego ativos que geram valor — de SaaS em produção a automações que rodam sozinhas.
+Construo produtos e sistemas que conectam operação real ao poder da Inteligência Artificial, eliminando retrabalho e permitindo que negócios cresçam sem depender de processo manual. Mentalidade de dono: não entrego só código, entrego ativos que geram valor, de SaaS em produção a automações que rodam sozinhas.
 </p>
 
 <p align="center">
-📍 São Paulo, SP — Brasil &nbsp;|&nbsp; Disponível remotamente &nbsp;|&nbsp; Aberto a novas oportunidades
+📍 São Paulo, SP, Brasil &nbsp;|&nbsp; Disponível remotamente &nbsp;|&nbsp; Aberto a novas oportunidades
 </p>
 
 <p align="center">
-<a href="https://danielsantos-nu.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/daniel-santos-429a6b304"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:daniel.2028.007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
@@ -19,11 +18,11 @@ Construo produtos e sistemas que conectam operação real ao poder da Inteligên
 
 ### 🧠 Sobre
 
-Construo produtos completos (SaaS, apps, landing pages) e sistemas de automação com IA de ponta a ponta. Já automatizei processos operacionais para redes de franquia de porte nacional — como a matriz da **Cresci e Perdi**, maior rede de moda circular infantil do mundo — substituindo fluxos manuais por hiperautomação, integrações de IA generativa e plataformas web robustas.
+Construo produtos completos (SaaS, apps, landing pages) e sistemas de automação com IA de ponta a ponta. Já automatizei processos operacionais para redes de franquia de porte nacional, como a matriz da **Cresci e Perdi** (maior rede de moda circular infantil do mundo), substituindo fluxos manuais por hiperautomação, integrações de IA generativa e plataformas web robustas.
 
 - 🔭 Trabalhando agora em produtos próprios (SaaS multi-tenant, apps de nicho) e sistemas de IA aplicada: RAG, orquestração visual de processos, telemetria em tempo real
 - 🌱 Aprofundando em agentes autônomos e pipelines de dados orientados a eventos
-- ⚡ No tempo livre, tiro ideia do papel e coloco em produção — não fico só na automação, gosto de ver o produto rodando de verdade
+- ⚡ No tempo livre, tiro ideia do papel e coloco em produção. Não fico só na automação, gosto de ver o produto rodando de verdade
 
 ---
 
@@ -31,21 +30,20 @@ Construo produtos completos (SaaS, apps, landing pages) e sistemas de automaçã
 
 | Projeto | O que faz | Stack |
 |---|---|---|
-| 🛍️ **Veloza** | Sistema operacional completo pra pequenas empresas: caixa (PDV), estoque automático, loja online integrada e agentes de IA que atendem no Instagram com preço, tamanho e link do produto — 24h. Inclui gerador de fotos/vídeos profissionais dos produtos via IA. Multi-tenant, com hardening de segurança (rate limit, anti-IDOR, anti-injeção, CSP). | `Next.js` `TypeScript` `Supabase` |
-| 🐾 **Meu Pet Online** | Cria um "cantinho" digital pro seu pet: página com fotos, personalidade, histórico de saúde (vacinas, microchip) e link compartilhável — inclusive QR code pra colocar na coleira. Em produção. | `Next.js` `Supabase` `TypeScript` |
+| 🛍️ **Veloza** | Sistema operacional completo pra pequenas empresas: caixa (PDV), estoque automático, loja online integrada e agentes de IA que atendem no Instagram com preço, tamanho e link do produto, 24h. Inclui gerador de fotos/vídeos profissionais dos produtos via IA. Multi-tenant, com hardening de segurança (rate limit, anti-IDOR, anti-injeção, CSP). | `Next.js` `TypeScript` `Supabase` |
+| 🐾 **Meu Pet Online** | Cria um "cantinho" digital pro seu pet: página com fotos, personalidade, histórico de saúde (vacinas, microchip) e link compartilhável, inclusive QR code pra colocar na coleira. Em produção. | `Next.js` `Supabase` `TypeScript` |
 | 💈 **BarberFlow** | MVP de agendamento para barbearias. | `Next.js` `TypeScript` |
 | 📐 **Orçamentos Engenharia** | Gerador de orçamentos com exportação em PDF para escritórios de engenharia. | `Next.js` `PostgreSQL` |
-| 🖼️ **RenderAI** | Geração de imagem/vídeo com IA sem prompt — escolhe o modelo, sobe a foto ou vídeo, pronto. | `TypeScript` `Motor de geração próprio` |
+| 🖼️ **RenderAI** | Geração de imagem/vídeo com IA sem prompt: escolhe o modelo, sobe a foto ou vídeo, pronto. | `TypeScript` `Motor de geração próprio` |
 
 ### 🤖 Automação & IA
 
 | Projeto | O que faz | Stack |
 |---|---|---|
 | 🎫 **Sistema de Chamados Inteligente** | Tickets com IA que classificam chamados, definem prioridade e aprendem com cada resposta do operador (RAG). Resolve parte dos casos sem intervenção humana. | `PostgreSQL` `Supabase` `OpenAI` `PgVector` `Edge Functions` `Z-API` |
-| 🔀 **Flow Builder — Criador de Processos** | Orquestrador visual: o usuário desenha o processo ou descreve em linguagem natural, e a IA monta blocos lógicos, regras de decisão e integrações. | `React Flow` `LLM` `Supabase` `REST API` `Lovable` |
+| 🔀 **Flow Builder (Criador de Processos)** | Orquestrador visual: o usuário desenha o processo ou descreve em linguagem natural, e a IA monta blocos lógicos, regras de decisão e integrações. | `React Flow` `LLM` `Supabase` `REST API` `Lovable` |
 | 🎙️ **IA para Reuniões e Tarefas** | Integração com Zoom que captura áudio, transcreve, gera diagnóstico da reunião e cria tarefas automaticamente pros responsáveis citados. | `Zoom API` `Webhooks` `React` `Edge Functions` `NLP` |
 | 📊 **Painel de Saúde da Franquia** | Governance Hub que consolida dados de uma rede inteira e calcula Score de Risco por unidade, com análise de sentimento pra antecipar crises. | `PostgreSQL` `NLP` `Dashboards` `Lovable` `Supabase` |
-| 🍕 **ChatBot WhatsApp** | Simulador de atendimento de pedidos via WhatsApp: cardápio interativo, resumo do pedido e transferência pra atendimento humano. | `HTML` `JS` |
 
 ### 🎨 Projetos para clientes
 Redesign de landing pages para clínicas e profissionais (odontologia, saúde), do briefing ao deploy.
